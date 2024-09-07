@@ -3,5 +3,5 @@
 
 outboard_repository=FiendFyre713/zmk-config-faeth
 outboard_ref=master
-outboard_from=boards/shields/faeth
+outboard_from=config/boards/shields/faeth
 outboard_to=boards/shields/faeth
